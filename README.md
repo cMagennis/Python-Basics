@@ -15,4 +15,8 @@ Hello_world: A simple lesson in print and console function. I also used this opp
 Variables: A quick lesson in variables. Strings, numbers & boolean. How to combine variables with printed text in order to efficiently alter information. 
 
 
-Working_with_strings: 
+Working_with_strings: Some basic string functionality. Also our first use of functions and use of index. A lot of the standard tools covered. Here's a list: .tolower() .tolower() .index("") .replace(" , ")
+
+
+
+

@@ -21,3 +21,6 @@ Working_with_strings: Some basic string functionality. Also our first use of fun
 Working_with_numbers: Starting off with basic arithmatic operators, then some basic functions we can use with numbers. Ending with importing the Math module in order to use a few expanded functions that aren't available normally. 
 
 
+User_input: Very basic way of gathering user input. Not yet attached to a site or text box etc. Also we assign the info to variables and then use those variables to print the info for the user. 
+
+

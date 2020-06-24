@@ -23,4 +23,4 @@ Working_with_numbers: Starting off with basic arithmatic operators, then some ba
 
 User_input: Very basic way of gathering user input. Not yet attached to a site or text box etc. Also we assign the info to variables and then use those variables to print the info for the user. 
 
-
+The_begginings_of_a_basic_calculator: Forgive the ridiculously long name, I just wanted to clarify that this isn't really a calculator. However we see the start of one here. I used some basic operators (just addition so far) and a few key functions. Starting to see how much functions are used. So we have int(), float() and str(). Main take away: Python defaults user input to a string. 
